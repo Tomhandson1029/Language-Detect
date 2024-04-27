@@ -1,0 +1,4 @@
+langdetect
+langcodes[data]
+streamlit
+deep-translator
